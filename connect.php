@@ -1,8 +1,8 @@
 <?php
 $hostname="localhost"; //local server name default localhost
 $username="root";  //mysql username default is root.
-$password="";       //blank if no password is set for mysql.
-$database="student";  //database name which you created
+$password="123-Aset";       //blank if no password is set for mysql.
+$database="admin";  //database name which you created
 $con=mysql_connect($hostname,$username,$password);
 if(! $con)
 {

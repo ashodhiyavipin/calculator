@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 A simple Solar Calculator
 This solar calculator shall enable us to add different components used in a solar power plant and then create a single costing from it for any size of plant. 
 We shall be able to select different modules, inverters, strucutres and other bos to enable a person customize the plant acording to his/her own needs.
